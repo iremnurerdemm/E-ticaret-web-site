@@ -1,11 +1,1 @@
-# HOC (Higher Order Components)
-
-# Yüksek Düzey Bileşenler
-
-- İçeriği children propu olarak daha sonrasında gönderbildiğimiz bileşenler.
-- Prop olarak farklı bileşnleri alan üst düzey bileşenler
-
-# CONTEXT
-
-- Verileri uygulumadaki bileşnlerden bağımsız noktalrda yönetmemiz sağlar
-# E-ticaret-web-site
+Bu proje, React kullanılarak geliştirilmiş bir e-ticaret uygulamasıdır. Proje, ürün listesi görüntüleme, ürünleri sepete ekleme ve sepetten çıkarma gibi temel özellikleri içermektedir. Bunun yanı sıra React ile bir e-ticaret uygulaması geliştirmek ve Context API, React Router gibi konseptleri kullanarak bir e-ticaret sitesi geliştirilmiştir.
